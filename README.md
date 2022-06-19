@@ -1,5 +1,5 @@
-### EX NO : 7
-### DATE  :
+### EX NO: 7
+### DATE: 09.05.2022
 
 # <p align="center"> ROC CURVE PLOT </p>
 ## Aim:
